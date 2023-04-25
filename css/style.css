@@ -560,7 +560,9 @@ header {
         position: relative;
         border: 0;
     }
-
+    .message-form input{
+        width:80%;
+    }
     nav img {
         width: auto;
         height: auto;
