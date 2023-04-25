@@ -563,6 +563,9 @@ header {
     .message-form input{
         width:80%;
     }
+    .message-form textarea{
+        width:80%;
+    }
     nav img {
         width: auto;
         height: auto;
